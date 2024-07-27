@@ -15,7 +15,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=iesa04&icon=5&color=12)](https://visitcount.itsvg.in)
 
-[![Article SVG](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@iesatr&index=0&source=medium)]([https://medium.com/@iesatr/your-article-slug](https://medium.com/@iesatr/mathematics-behind-z-score-normalization-standardization-1999ca37b7c2))
+[![Article SVG](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@iesatr&index=0&source=medium)](https://medium.com/@iesatr/mathematics-behind-z-score-normalization-standardization-1999ca37b7c2)
+
 
 
 
