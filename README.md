@@ -1,5 +1,5 @@
 ## Hello, I'm T Iesa Mohamed 👋
-I'm a student at Madras Institute of Technology<br>Pursuing Bachelor's in Artificial Intelligence and Data Science 
+🎓 I'm a student at Madras Institute of Technology pursuing a Bachelor's Degree in Artificial Intelligence and Data Science 
 
 
 ## 🌐 Socials:
