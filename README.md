@@ -1,5 +1,5 @@
 ## Hello, I'm T Iesa Mohamed 👋
-🎓 I'm a student studying B.Tech in Artificial Intelligence and Data Science 
+🎓 I'm pursuing a Bachelor's degree in Artificial Intelligence and Data Science.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iesa-mohamed-t) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iesatr) 
